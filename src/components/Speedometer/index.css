@@ -1,0 +1,49 @@
+/* Write your CSS here */
+.background {
+  padding: 20px;
+  background-color: #07080c;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  height: 30vh;
+  width: 40vw;
+}
+.heading {
+  color: #ffffff;
+}
+.background1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.head {
+  color: #ffffff;
+}
+.para {
+  color: #cbd5e1;
+}
+.background2 {
+  display: flex;
+  flex-direction: row;
+  align-content: space-between;
+}
+.button1 {
+  background-color: #0b69ff;
+  border-radius: 0px;
+  border-radius: 7px;
+  color: #ffffff;
+  padding: 10px;
+}
+.button2 {
+  color: #94a3b8;
+  border-color: #94a3b8;
+  border-radius: 7px;
+  background-color: transparent;
+  padding: 10px;
+}
